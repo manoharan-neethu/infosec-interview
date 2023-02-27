@@ -13,3 +13,8 @@
 - Digital forensics
 - Steps taken during evidence collections, storage, transfer, analysis and reporting
 - chain of custody 
+
+
+### Team : 
+  - Neethu Manoharan - manoharan.n@northeastern.edu
+  - Joel Hyde - jhyde9@gatech.edu
